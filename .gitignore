@@ -2,3 +2,4 @@ data/processed/
 mlruns/
 models/
 reports/
+data/raw/.gitignore
