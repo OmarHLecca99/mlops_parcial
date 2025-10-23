@@ -1,0 +1,4 @@
+[core]
+    remote = onedrive_shared_local
+['remote "onedrive_shared_local"']
+    url = C:\Users\omarh\OneDrive\DVC MLOPS PARCIAL
